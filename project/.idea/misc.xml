@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war" />
+    <file type="web" url="file://$PROJECT_DIR$/hshb-register-center" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/hshb-service-employee/pom.xml" />
+        <option value="$PROJECT_DIR$/hshb-register-center/pom.xml" />
+        <option value="$PROJECT_DIR$/hshb-service-flow/pom.xml" />
+        <option value="$PROJECT_DIR$/hshb-oa/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
