@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hshb-oa/hshb-oa-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hshb-oa/hshb-oa-service-leave" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hshb-oa/hshb-oa-service-workorder" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hshb-register-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hshb-service-flow/hshb-service-workflow-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hshb-service-flow/hshb-service-workflow-imp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hshb-service-flow/hshb-service-workflow-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solr" charset="UTF-8" />
+  </component>
+</project>

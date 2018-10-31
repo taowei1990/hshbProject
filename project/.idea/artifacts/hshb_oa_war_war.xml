@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hshb-oa-war:war">
+    <output-path>$PROJECT_DIR$/hshb-oa/hshb-oa-war/target</output-path>
+    <root id="archive" name="oa.war">
+      <element id="artifact" artifact-name="hshb-oa-war:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service.iml" filepath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/hshb-employee-service-api.iml" filepath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/hshb-employee-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/hshb-employee-service-imp.iml" filepath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/hshb-employee-service-imp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-parent/hshb-employee-service-parent.iml" filepath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-parent/hshb-employee-service-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/hshb-oa-comm.iml" filepath="$PROJECT_DIR$/hshb-oa/hshb-oa-comm/hshb-oa-comm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hshb-oa/hshb-oa-parent/hshb-oa-parent.iml" filepath="$PROJECT_DIR$/hshb-oa/hshb-oa-parent/hshb-oa-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hshb-oa/hshb-oa-pom.iml" filepath="$PROJECT_DIR$/hshb-oa/hshb-oa-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hshb-oa/hshb-oa-service-leave/hshb-oa-service-leave.iml" filepath="$PROJECT_DIR$/hshb-oa/hshb-oa-service-leave/hshb-oa-service-leave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hshb-oa/hshb-oa-service-workorder/hshb-oa-service-workorder.iml" filepath="$PROJECT_DIR$/hshb-oa/hshb-oa-service-workorder/hshb-oa-service-workorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/hshb-oa-war.iml" filepath="$PROJECT_DIR$/hshb-oa/hshb-oa-war/hshb-oa-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hshb-register-center/hshb-register-center.iml" filepath="$PROJECT_DIR$/hshb-register-center/hshb-register-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hshb-service-flow/hshb-service-workflow-api/hshb-service-workflow-api.iml" filepath="$PROJECT_DIR$/hshb-service-flow/hshb-service-workflow-api/hshb-service-workflow-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hshb-service-flow/hshb-service-workflow-imp/hshb-service-workflow-imp.iml" filepath="$PROJECT_DIR$/hshb-service-flow/hshb-service-workflow-imp/hshb-service-workflow-imp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hshb-service-flow/hshb-service-workflow-parent/hshb-service-workflow-parent.iml" filepath="$PROJECT_DIR$/hshb-service-flow/hshb-service-workflow-parent/hshb-service-workflow-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hshb-service-flow/hshb-workflow-service-pom.iml" filepath="$PROJECT_DIR$/hshb-service-flow/hshb-workflow-service-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project.iml" filepath="$PROJECT_DIR$/.idea/project.iml" />
+    </modules>
+  </component>
+</project>
