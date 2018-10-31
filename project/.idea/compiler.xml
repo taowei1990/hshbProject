@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hshb-employee-service-api" />
+        <module name="hshb-employee-service-imp" />
+        <module name="hshb-oa-comm" />
+        <module name="hshb-oa-service-leave" />
+        <module name="hshb-oa-service-workorder" />
+        <module name="hshb-oa-war" />
+        <module name="hshb-register-center" />
+        <module name="hshb-service-workflow-api" />
+        <module name="hshb-service-workflow-imp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hshb-employee-service" target="1.5" />
+      <module name="hshb-employee-service-api" target="1.8" />
+      <module name="hshb-employee-service-imp" target="1.8" />
+      <module name="hshb-employee-service-parent" target="1.8" />
+      <module name="hshb-oa-comm" target="1.8" />
+      <module name="hshb-oa-parent" target="1.8" />
+      <module name="hshb-oa-pom" target="1.5" />
+      <module name="hshb-oa-service-leave" target="1.8" />
+      <module name="hshb-oa-service-workorder" target="1.8" />
+      <module name="hshb-oa-war" target="1.8" />
+      <module name="hshb-register-center" target="1.8" />
+      <module name="hshb-service-workflow-api" target="1.8" />
+      <module name="hshb-service-workflow-imp" target="1.8" />
+      <module name="hshb-service-workflow-parent" target="1.8" />
+      <module name="hshb-workflow-service-pom" target="1.5" />
+      <module name="solr" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

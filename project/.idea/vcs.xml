@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/hshb-oa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hshb-register-center" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hshb-service-employee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hshb-service-flow" vcs="Git" />
+  </component>
+</project>

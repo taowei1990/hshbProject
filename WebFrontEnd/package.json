@@ -1,0 +1,64 @@
+{
+  "name": "hshberp",
+  "version": "1.0.0",
+  "description": "ERP2.0 客户端",
+  "scripts": {
+    "webpack": "webpack --mode production",
+    "webpack-manage": "webpack --config ./webpack/manage.config.js --mode production"
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "hshb"
+  ],
+  "author": "MaoJun",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "antd": "^3.10.1",
+    "asar": "^0.14.3",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-import": "^1.7.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "electron": "^1.8.4",
+    "electron-localshortcut": "^3.1.0",
+    "electron-packager": "^12.0.2",
+    "fs-jetpack": "^0.9.0",
+    "getmac": "^1.4.1",
+    "html-webpack-plugin": "^3.2.0",
+    "icojs": "^0.11.0",
+    "into-stream": "^3.1.0",
+    "less": "^3.0.1",
+    "less-loader": "^4.1.0",
+    "nedb": "^1.8.0",
+    "node-fetch": "^2.1.2",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-router": "^4.3.1",
+    "style-loader": "^0.20.3",
+    "uglifyjs-webpack-plugin": "^1.3.0",
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-middleware": "^3.4.0",
+    "xmlreader": "^0.2.3",
+    "yo-yo": "^1.4.1"
+  },
+  "config": {
+    "servicepath": "http://192.168.1.14:8081"
+  },
+  "dependencies": {
+    "babel-preset-stage-2": "^6.24.1",
+    "dva": "^2.4.0",
+    "fetch-jsonp": "^1.1.3",
+    "history": "^4.7.2",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "require": "^2.4.20",
+    "requires": "^1.0.2"
+  }
+}

@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb79ede4-2031-4ab2-a1c5-f0ec8df73fcf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/utils/RedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/utils/RedisUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/OATomcatApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/OATomcatApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/interceptor/WebInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/interceptor/WebInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/leave/LeaveInfoAPPController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/leave/LeaveInfoAPPController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/leave/LeaveInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/leave/LeaveInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/description.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/common/ApiResponseResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/common/ApiResponseResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/common/PageVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/common/PageVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/ApprovalNameDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/ApprovalNameDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/BreakDownDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/BreakDownDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/CheckAttendanceDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/CheckAttendanceDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/CityDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/CityDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/ComputerRegJO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/ComputerRegJO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/DeptDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/DeptDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/DeptTreeDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/DeptTreeDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/DeptTypePositionDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/DeptTypePositionDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/EmployeeBaseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/EmployeeBaseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/EmployeeKeyValueDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/EmployeeKeyValueDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/EmployeeLoginDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/EmployeeLoginDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/FlowApprovalDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/FlowApprovalDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/FlowDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/FlowDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/LeaveTypeDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/LeaveTypeDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/LoginResultDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/LoginResultDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/NodeDefinitionDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/NodeDefinitionDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/NodeJumpConditionDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/NodeJumpConditionDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/NodeStepDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/NodeStepDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/PopedomDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/PopedomDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/UserIdentityDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/UserIdentityDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/UserInfoDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/UserInfoDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/WorkTimeDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/WorkTimeDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/deptTreeInfoDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/deptTreeInfoDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/CityEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/CityEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/DeptTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/DeptTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/LoginStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/LoginStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/OperateRangeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/OperateRangeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/PersonnelOpeRangeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/PersonnelOpeRangeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/PersonnelPopedomItemEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/PersonnelPopedomItemEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/PopedomModuleEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/PopedomModuleEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/PositionTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/enumdefine/PositionTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/leaveWorkAttendanceDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/leaveWorkAttendanceDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/sysmenu/MenuDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/sysmenu/MenuDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/sysmenu/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/sysmenu/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/sysmenu/SubMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/sysmenu/SubMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/sysmenu/SysMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/sysmenu/SysMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/BreakDownSOA.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/BreakDownSOA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/CitySOA.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/CitySOA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/DeptServiceSOA.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/DeptServiceSOA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/EmployeeInfoServiceSOA.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/EmployeeInfoServiceSOA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/LeaveTypeSOA.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/LeaveTypeSOA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/SafeVerifyServiceSOA.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/SafeVerifyServiceSOA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/UserSOA.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/UserSOA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/test/java/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/test/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/description.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/EmployeeServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/EmployeeServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/EmployeeTomcatApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/EmployeeTomcatApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/annotation/DataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/aop/DynamicDataSourceAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/comm/enums/DataSourceTypeEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/comm/util/CryptoTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/comm/util/CryptoTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/comm/util/RedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/comm/util/RedisUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/config/DataSourceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/config/DataSourceContextHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/config/RedisCacheConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/config/RedisCacheConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/config/RoutingDataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/BreakDownSOAImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/BreakDownSOAImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/CitySOAImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/CitySOAImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/DeptServiceSOAImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/DeptServiceSOAImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/EmployeeServiceSOAImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/EmployeeServiceSOAImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/LeaveTypeSOAImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/LeaveTypeSOAImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/SafeVerifyServiceSOAImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/SafeVerifyServiceSOAImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/UserSOAImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/UserSOAImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/filter/AccessFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/filter/AccessFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/city/dao/CityDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/city/dao/CityDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/city/entity/CityDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/city/entity/CityDO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/daysCalculation/dao/BreakDownDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/daysCalculation/dao/BreakDownDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/daysCalculation/entity/BreakDownDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/daysCalculation/entity/BreakDownDO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/daysCalculation/entity/WorkTimeDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/daysCalculation/entity/WorkTimeDO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/dept/dao/DeptMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/dept/dao/DeptMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/dept/entity/AreaPopedomDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/dept/entity/AreaPopedomDO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/dept/entity/deptDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/dept/entity/deptDO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/employee/dao/EmployeInfoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/employee/dao/EmployeInfoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/employee/entity/EmployeInfoDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/employee/entity/EmployeInfoDO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/employee/entity/EmployeeLoginDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/employee/entity/EmployeeLoginDO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/leaveType/dao/LeaveTypeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/leaveType/dao/LeaveTypeDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/leaveType/entity/LeaveTypeDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/leaveType/entity/LeaveTypeDO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/SaveVerifyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/SaveVerifyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/dao/LoginRuleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/dao/LoginRuleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/dao/MenuProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/dao/MenuProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/dao/SafeVerifyMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/dao/SafeVerifyMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/entity/ComputerRegDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/entity/ComputerRegDO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/entity/LoginRecordDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/entity/LoginRecordDO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/entity/SafeVerifyDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/entity/SafeVerifyDO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/entity/UserIdentityDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/safeverify/entity/UserIdentityDO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/user/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/user/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/user/dao/helper/UserProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/user/dao/helper/UserProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/user/entity/UserDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/user/entity/UserDO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/application-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/mapper/employee/EmployeInfoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/mapper/employee/EmployeInfoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/test/java/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/test/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/package-prod.bat" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/package-prod.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hshb-service-employee/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hshb-service-employee/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/hshb-service-employee/target/" />
+    <ignored path="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-parent/target/" />
+    <ignored path="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/target/" />
+    <ignored path="$PROJECT_DIR$/hshb-register-center/target/" />
+    <ignored path="$PROJECT_DIR$/hshb-oa/hshb-oa-parent/target/" />
+    <ignored path="$PROJECT_DIR$/hshb-oa/hshb-oa-service-workorder/target/" />
+    <ignored path="$PROJECT_DIR$/hshb-oa/hshb-oa-comm/target/" />
+    <ignored path="$PROJECT_DIR$/hshb-oa/hshb-oa-service-leave/target/" />
+    <ignored path="$PROJECT_DIR$/hshb-oa/target/" />
+    <ignored path="$PROJECT_DIR$/hshb-service-flow/hshb-service-workflow-parent/target/" />
+    <ignored path="$PROJECT_DIR$/hshb-service-flow/hshb-service-workflow-api/target/" />
+    <ignored path="$PROJECT_DIR$/hshb-service-flow/target/" />
+    <ignored path="$PROJECT_DIR$/hshb-service-flow/hshb-service-workflow-imp/target/" />
+    <ignored path="$PROJECT_DIR$/hshb-oa/hshb-oa-war/target/" />
+    <ignored path="$PROJECT_DIR$/solr/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-580149444">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="51" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="6" />
+          <entry key="project.open.time.31" value="3" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.34" value="3" />
+          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="16" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="24" />
+          <entry key="gitignore" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="585" />
+          <entry key="properties" value="50" />
+          <entry key="xml" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="24" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="585" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="50" />
+          <entry key="XML" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="9" />
+          <entry key="ft" value="9" />
+          <entry key="java" value="6675" />
+          <entry key="properties" value="128" />
+          <entry key="txt" value="3" />
+          <entry key="xml" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6675" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Properties" value="128" />
+          <entry key="VTL" value="9" />
+          <entry key="XML" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="1" />
+          <entry key="git.branch.merge" value="3" />
+          <entry key="git.branch.rebase" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="EstateController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/EstateController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2166">
+              <caret line="133" column="37" lean-forward="true" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegisterCenterApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hshb-register-center/src/main/java/com/hshb/RegisterCenterApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dto</find>
+      <find>filter</find>
+      <find>192</find>
+      <find>springframework</find>
+      <find>mysql</find>
+      <find>slaveDataSource</find>
+      <find>enabled</find>
+      <find>spring-cloud-starter-eureka</find>
+      <find>Timestamp</find>
+      <find>date</find>
+      <find>selectStartCode</find>
+      <find>likeName</find>
+      <find>HanYuPinYinHelper</find>
+      <find>api</find>
+      <find>位</find>
+      <find>地址</find>
+      <find>物业</find>
+      <find>cbdId</find>
+      <find>estateDTOList</find>
+      <find>countyIdAndCbdId</find>
+      <find>goo</find>
+      <find>common</find>
+      <find>&lt;option name=&quot;configurationTypes&quot;&gt;</find>
+      <find>tempFile</find>
+      <find>FileUtil</find>
+      <find>upLoadDir</find>
+      <find>executeUpLoad</find>
+      <find>TEMP_FOLDER</find>
+      <find>fileU</find>
+      <find>192.168.1.</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hshb-register-center" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/hshb-service-employee" value="developer" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/filter/JavamelodyConfiguration.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/pom.xml" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/EmployeeKeyValueDTO.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/EmployeeLoginDTO.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/leave/LeaveInfoController.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/leave/LeaveInfoAPPController.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/config/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/annotation/DataSource.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/user/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/user/response/ResponseCold.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/user/dao/helper/UserProvider.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/dao/helper/EstateProvider.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/comm/util/Bean.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/comm/util/BeanUtil.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/employee/dao/EmployeInfoMapper.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/common/PageVo.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/EstateVO.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/LeaveInfoController.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/config/ResponseCold.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/UserSOA.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/user/UserController.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/UserSOAImpl.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/estate/EstateService.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/estate/dao/helper/EstateProvider.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/pom.xml" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/estate/entity/EstateDO.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/comm/util/HanYuPinYinHelper.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/EstateDTO.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/estate/dao/EstateDAO.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/estate/dao/helper/EstateImageProvider.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/estate/entity/EstateImageDO.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/dto/EstateImageDTO.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/vo/EstateVO.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/estate/dao/EstateImageDAO.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/vo/ImageTypeVO.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/enums/EstateImageTypeEnum.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/vo/EstateImagesVO.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/filter/AccessFilter.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/vo/Test.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/OATomcatApplication.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/interceptor/WebInterceptor.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/EstateSOA.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/utils/RandomUtil.java" />
+        <option value="$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/EstateSOAImp.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/workorder/WorkOrderAttachmentController.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/utils/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/utils/Base64Util.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/vo/EstateImageVO.java" />
+        <option value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/EstateController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\lib" />
+        <option name="mavenHome" value="D:/DevelopTool/apache-maven-3.0.4" />
+        <option name="userSettingsFile" value="D:\DevelopTool\apache-maven-3.0.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="698" />
+    <option name="y" value="78" />
+    <option name="width" value="683" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Ali-Check</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ali-Check</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="hshb-register-center" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="hshb-register-center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="hshb-register-center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="hshb-register-center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="hshb-register-center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hshb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="hshb-register-center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538119960479" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hshb.sysmanage.service.estate.dao.helper" />
+      <recent name="com.hshb.web.estate.vo" />
+      <recent name="com.hshb.sysmanage.dto" />
+      <recent name="com.hshb.sysmanage.service.estate.entity" />
+      <recent name="com.hshb.sysmanage.service.estate.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA_WORKSPACE\project\hshb-oa\hshb-oa-war\src\main\java\com\hshb\web\estate" />
+      <recent name="E:\IDEA_WORKSPACE\project\hshb-service-employee\hshb-employee-service-api\src\main\java\com\hshb\sysmanage\dto" />
+      <recent name="E:\IDEA_WORKSPACE\project\hshb-service-employee\hshb-employee-service-imp\src\main\java\com\hshb\sysmanage\service\estate" />
+      <recent name="E:\IDEA_WORKSPACE\project\hshb-service-employee\hshb-employee-service-imp\src\main\java\com\hshb\sysmanage\service" />
+      <recent name="E:\IDEA_WORKSPACE\project\hshb-oa\hshb-oa-war\src\main\java\com\hshb\filter" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.22411129" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.RegisterCenterApplication">
+    <configuration name="All Features in: web" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="hshb-oa-war" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EmployeeServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hshb-employee-service-imp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hshb.EmployeeServiceApplication" />
+    </configuration>
+    <configuration name="OATomcatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hshb-oa-war" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hshb.OATomcatApplication" />
+    </configuration>
+    <configuration name="RegisterCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hshb-register-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hshb.RegisterCenterApplication" />
+    </configuration>
+    <configuration name="SolrApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="solr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hshb.solr.SolrApplication" />
+    </configuration>
+    <configuration name="WorkFlowServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hshb-service-workflow-imp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hshb.WorkFlowServiceApplication" />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EmployeeServiceApplication" />
+      <item itemvalue="Spring Boot.RegisterCenterApplication" />
+      <item itemvalue="Spring Boot.WorkFlowServiceApplication" />
+      <item itemvalue="Spring Boot.OATomcatApplication" />
+      <item itemvalue="Spring Boot.SolrApplication" />
+      <item itemvalue="Cucumber java.All Features in: web" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.All Features in: web" />
+        <item itemvalue="Cucumber java.All Features in: web" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb79ede4-2031-4ab2-a1c5-f0ec8df73fcf" name="Default Changelist" comment="" />
+      <created>1537406666487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537406666487</updated>
+      <workItem from="1537406668187" duration="551000" />
+      <workItem from="1537407797257" duration="14264000" />
+      <workItem from="1537428388225" duration="4600000" />
+      <workItem from="1537490239260" duration="10933000" />
+      <workItem from="1537836574353" duration="11004000" />
+      <workItem from="1537854988835" duration="716000" />
+      <workItem from="1537864403499" duration="649000" />
+      <workItem from="1537956875526" duration="460000" />
+      <workItem from="1538008477486" duration="441000" />
+      <workItem from="1538012432643" duration="3971000" />
+      <workItem from="1538019029697" duration="757000" />
+      <workItem from="1538026306020" duration="3038000" />
+      <workItem from="1538119223982" duration="1959000" />
+      <workItem from="1538188248988" duration="4512000" />
+      <workItem from="1538199430687" duration="4787000" />
+      <workItem from="1538267324199" duration="221000" />
+      <workItem from="1538267702721" duration="1665000" />
+      <workItem from="1538270340164" duration="667000" />
+      <workItem from="1538271029199" duration="12216000" />
+      <workItem from="1538957572580" duration="672000" />
+      <workItem from="1538963452672" duration="6038000" />
+      <workItem from="1538971186348" duration="3469000" />
+      <workItem from="1538992723376" duration="855000" />
+      <workItem from="1539048823458" duration="8849000" />
+      <workItem from="1539062811855" duration="11134000" />
+      <workItem from="1539131281853" duration="6761000" />
+      <workItem from="1539143155565" duration="732000" />
+      <workItem from="1539143911847" duration="153000" />
+      <workItem from="1539148933995" duration="7790000" />
+      <workItem from="1539216170941" duration="26058000" />
+      <workItem from="1539257531745" duration="964000" />
+      <workItem from="1539304554353" duration="5532000" />
+      <workItem from="1539321996529" duration="9833000" />
+      <workItem from="1539562595665" duration="19128000" />
+      <workItem from="1539649310219" duration="15522000" />
+      <workItem from="1539734713720" duration="18274000" />
+      <workItem from="1539821347710" duration="630000" />
+      <workItem from="1539822225635" duration="18249000" />
+      <workItem from="1539909154582" duration="6923000" />
+      <workItem from="1540167029811" duration="10211000" />
+      <workItem from="1540192151512" duration="496000" />
+      <workItem from="1540192667538" duration="636000" />
+      <workItem from="1540282312579" duration="146000" />
+      <workItem from="1540282479373" duration="579000" />
+      <workItem from="1540283299638" duration="3413000" />
+      <workItem from="1540340442682" duration="2550000" />
+      <workItem from="1540343980734" duration="9123000" />
+      <workItem from="1540362114097" duration="4712000" />
+      <workItem from="1540426608899" duration="25753000" />
+      <workItem from="1540512468692" duration="22227000" />
+      <workItem from="1540772661154" duration="2121000" />
+      <workItem from="1540775620287" duration="3457000" />
+      <workItem from="1540878604182" duration="1096000" />
+      <workItem from="1540880465400" duration="1187000" />
+    </task>
+    <task id="LOCAL-00001" summary="ip">
+      <created>1538016813476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538016813478</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="332684000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5045386" side_tool="true" weight="0.5868167" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.20179948" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Mongo Explorer" order="8" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.2363344" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.329582" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.18370166" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3279743" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="0" sideWeight="0.49546143" visible="true" weight="0.3922652" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3279743" />
+      <window_info anchor="bottom" id="Run" order="16" sideWeight="0.4977307" weight="0.26848873" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.3279743" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.19935691" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.21401028" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32980332" />
+      <window_info id="Web" order="7" sideWeight="0.50239235" side_tool="true" weight="0.13993949" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.0" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50239235" side_tool="true" weight="0.13993949" />
+      <window_info anchor="bottom" id="Inspection Results" order="18" weight="0.30707395" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="2" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="17" weight="0.3279743" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ip" />
+    <option name="LAST_COMMIT_MESSAGE" value="ip" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/EstateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="127" column="13" lean-forward="true" selection-start-line="127" selection-start-column="13" selection-end-line="127" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/config/RedisCacheConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/city/dao/CityDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/EmployeeServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/service/estate/dao/EstateImageDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/vo/ImageTypeVO.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="880" column="12" lean-forward="true" selection-start-line="880" selection-start-column="12" selection-end-line="880" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/filter/AccessFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="28" column="82" selection-start-line="28" selection-start-column="82" selection-end-line="28" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/vo/Test.java" />
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/interceptor/WebInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="34" column="121" selection-start-line="34" selection-start-column="121" selection-end-line="34" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/vo/EstateImagesVO.java" />
+    <entry file="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="47" column="49" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-api/src/main/java/com/hshb/sysmanage/service/api/EstateSOA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/src/main/java/com/hshb/sysmanage/controller/EstateSOAImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2982">
+          <caret line="164" column="15" selection-start-line="164" selection-start-column="15" selection-end-line="164" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-service-employee/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-service-employee/hshb-employee-service-imp/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-581">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/utils/RandomUtil.java" />
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/OATomcatApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/leave/LeaveInfoAPPController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="220" column="85" selection-start-line="220" selection-start-column="76" selection-end-line="220" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/leave/LeaveInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1882">
+          <caret line="442" column="45" selection-start-line="442" selection-start-column="40" selection-end-line="442" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/utils/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1722">
+          <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.17.RELEASE/spring-web-4.3.17.RELEASE.jar!/org/springframework/http/MediaType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/workorder/WorkOrderTypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="42" column="40" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/workorder/WorkOrderTakingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/workorder/WorkOrderLogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-129">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/workorder/WorkOrderAttachmentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="965">
+          <caret line="147" column="35" lean-forward="true" selection-start-line="147" selection-start-column="35" selection-end-line="147" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/utils/HttpConnectionUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3923">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/utils/OutWriterUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/constants/WebConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-269">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/constants/WorkOrderLogConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/enums/WorkOrderProgressEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.17.RELEASE/spring-core-4.3.17.RELEASE.jar!/org/springframework/util/CollectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/utils/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1554">
+          <caret line="164" column="12" selection-start-line="164" selection-start-column="8" selection-end-line="164" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/constants/WorkOrderProgressConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/utils/BeanConvertUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1163">
+          <caret line="123" column="32" selection-start-line="123" selection-start-column="16" selection-end-line="123" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/enums/EstateImageTypeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/enums/WorkOrderLogEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/vo/EstateVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="409" selection-start-line="409" selection-end-line="409" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/resources/application-prod.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-register-center/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-register-center/src/main/resources/application-prod1.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-register-center/src/main/resources/application-prod2.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/vo/EstateImageVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="109" column="24" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-comm/src/main/java/com/hshb/oa/comm/utils/Base64Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="84" column="13" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/workorder/WorkOrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="104" column="41" lean-forward="true" selection-start-line="104" selection-start-column="41" selection-end-line="104" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-oa/hshb-oa-war/src/main/java/com/hshb/web/estate/EstateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2166">
+          <caret line="133" column="37" lean-forward="true" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hshb-register-center/src/main/java/com/hshb/RegisterCenterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>hshb-oa-war:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>project</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ant:ant:1.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

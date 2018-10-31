@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hshb-register-center:war">
+    <output-path>$PROJECT_DIR$/hshb-register-center/target</output-path>
+    <root id="archive" name="register.war">
+      <element id="artifact" artifact-name="hshb-register-center:war exploded" />
+    </root>
+  </artifact>
+</component>
